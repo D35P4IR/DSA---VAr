@@ -1,3 +1,4 @@
+# https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
 
 def ma():
     nums = [4, 3, 2, 9, 8, 2, 3, 1, 7, 3]
@@ -11,8 +12,6 @@ def ma():
     return ans
 
 print(ma())
-
-Find All Numbers Disappeared in an Array
 
 """
 Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums.
